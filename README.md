@@ -1,2 +1,2 @@
 # SemEval-SentiMix
-This repository will include all relevant source code related to SemEval participation by team team_swift 
+This repository contains code required to replicate the results of our team - Team_Swift (aditya_malte)
